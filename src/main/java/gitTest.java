@@ -7,5 +7,6 @@ public class gitTest {
         System.out.println("master, test");
         System.out.println("hotfix, test");
         System.out.println("hotfix, github");
+        System.out.println("pull, github");
     }
 }
